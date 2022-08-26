@@ -28,7 +28,7 @@
           "keystone": "0.0.1",
           "handlebars": "0.0.1",
           "xterm": "0.0.1",
-          "jquery": "0.0.1",
+          "jquery": "3.6.1",
           "mongoose":"0.0.1",
           "nes": "0.0.1",
           "serve": "0.0.1"
@@ -50,7 +50,7 @@
           "keystone": "0.0.1",
           "handlebars": "0.0.1",
           "xterm": "0.0.1",
-          "jquery": "0.0.1",
+          "jquery": "3.6.1",
           "mongoose":"0.0.1",
           "nes": "0.0.1",
           "serve": "0.0.1"
